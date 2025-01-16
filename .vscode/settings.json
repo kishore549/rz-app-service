@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1997cb9b-5300-4927-8dec-9cc136483562/resourceGroups/tera-dev-rg/providers/Microsoft.Web/sites/rz-mbc-app-service-azure",
+    "appService.deploySubpath": "."
+}
